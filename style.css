@@ -116,7 +116,7 @@ nav .btn{
     display: flex;
     align-items: center;
     gap: 10px;
-    font-size: 15px;
+    font-size: 17px;
     cursor: pointer;
     margin-right: -90px;
 }
@@ -165,6 +165,7 @@ nav .btn:hover {
     display: inline;
     z-index: 1;
     padding: 5px 10px;
+    gap: 10px;
 }
 .home-btn i{
     color: var(--bgColor);
@@ -510,10 +511,6 @@ footer p{
     width: 100%;
     padding: 20px;
 }
-
-
-
-
 
 
 
